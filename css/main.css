@@ -1,0 +1,90 @@
+/*title*/
+h3 {
+font-family:'VT323', monospace;
+font-size: 200%;
+font-weight: bold;
+text-decoration: underline;
+}
+
+/*
+*general container
+*/
+div{
+  background-size: cover;
+  color: #FFFFFF;
+  display: inline-block;
+  font-family:'Quantico', sans-serif;
+  font-size: 100%;
+  margin: 30px;
+  text-align: center;
+  width: 1300px;
+}
+
+/*
+assigning space to text*/
+p{
+  padding-left: 50px;
+  padding-top: 150px;
+}
+
+/*
+adding images*/
+div.coder_1 {
+  background-image:
+    url("../assets/images/alanis.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+}
+
+div.coder_2 {
+  background-image:
+    url("../assets/images/amy-lee.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+}
+
+div.coder_3 {
+  background-image:
+    url("../assets/images/amy-winehouse.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+}
+
+div.coder_4 {
+  background-image:
+    url("../assets/images/janis.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+  height:200px;
+  width: 200px;
+}
+
+div.coder_5 {
+  background-image:
+    url("../assets/images/joan-jett.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+}
+
+div.coder_6 {
+  background-image:
+    url("../assets/images/patti-smith.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+}
